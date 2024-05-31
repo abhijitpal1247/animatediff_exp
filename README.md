@@ -8,10 +8,6 @@ Welcome to the **Animate Diff for Advertisement GIFs** repository! This project 
 - **OpenAI GPT **: Uses GPT to create compelling scripts and prompts.
 - **LoRA Weights**: Incorporate specialized LoRA weights for GIF generation of specific brands and personalities.
 
-Experiments with Animate diff and LoRA weights
-4. **View the results**
-   The generated GIFs will be saved in the `output` folder.
-
 ## 📈 Experiments and Results
 
 Here are the results of the experiments conducted using various LoRA weights:
