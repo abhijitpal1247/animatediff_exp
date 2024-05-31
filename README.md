@@ -17,8 +17,7 @@ Here are the results of the experiments conducted using various LoRA weights:
 | Generated GIFs |
 |---|
 | ![Coca-Cola GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/890bbf16-3da7-4223-b872-33f5124ea6d9) |
-| ![Coca-Cola 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/8021b5f8-afd4-42ad-b73a-8fa9d43b2eb7)
-)
+| ![Coca-Cola 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/8021b5f8-afd4-42ad-b73a-8fa9d43b2eb7) |
 
 
 ### 💪 Coca-Cola & Dwayne Johnson Ad GIFs
