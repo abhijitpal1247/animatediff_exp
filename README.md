@@ -60,7 +60,7 @@ You can train new LoRA weights for specific objects or you can use sites like [C
 
 ## 📫 Contributions
 
-We welcome contributions! Please open an issue or submit a pull request if you have any suggestions or improvements.
+Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
 ## 🙏 Acknowledgements
 
@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Thank you for your interest! We hope you enjoy using our animated advertisement GIF generator. 🎉
+Thank you for your interest! I hope you enjoy using the animated advertisement GIF generator. 🎉
 
 ![Star the Repo](https://img.shields.io/github/stars/abhijitpal1247/animatediff_exp?style=social)
 
