@@ -35,7 +35,7 @@ Here are the results of the experiments conducted using various LoRA weights:
     - The next step involves editing the prompt with LoRA weights specific keywords like "th3rock", "kekokelev2" etc (the keyword used while dream-booth fine-tuning)
 
 3. **GIF Creation** 🎞️
-    - The generated prompt is then fed into the Animate Diff model, which uses LoRA weights to adapt and produce the corresponding GIF.
+    - The edited prompt is then fed into the Animate Diff model, which uses LoRA weights to adapt and produce the corresponding GIF.
 
 4. **Evaluation** 🔍
     - Each generated GIF should be manually evaluated for its quality, with adjustments made to the script (scale of each LoRA weight) and prompt as needed.
