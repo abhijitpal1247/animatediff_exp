@@ -41,8 +41,10 @@ Here are the results of the experiments conducted using various LoRA weights:
     - Each generated GIF should be manually evaluated for its quality, with adjustments made to the script (scale of each LoRA weight) and prompt as needed.
 
 ## Future Work 📝
+
   **Improving results for multiple LoRA**
     - There are many techniques for combining LoRAs like Ties and Dare, and I will try to explore them
+    
   **Generating Longer Video sequence**
     - There are some techniques like applying sliding-window to generate longer sequences, I will try to look into this.
 
