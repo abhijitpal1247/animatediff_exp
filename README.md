@@ -18,17 +18,17 @@ Here are the results of the experiments conducted using various LoRA weights:
 
 ### 🥤 Coca-Cola Ad GIFs
 
-| Description | Generated GIF |
-|---|---|
-| Coca-Cola product promo using LoRA weights | ![Coca-Cola GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/890bbf16-3da7-4223-b872-33f5124ea6d9) |
-| Another example generated ad gif | ![Coca-Cola 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/e6e3c141-35ad-42f0-b939-7fdff6db06ff)
+| Generated GIFs |
+|---|
+| ![Coca-Cola GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/890bbf16-3da7-4223-b872-33f5124ea6d9) |
+| ![Coca-Cola 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/e6e3c141-35ad-42f0-b939-7fdff6db06ff)
 
 
 ### 💪 Coca-Cola & Dwayne Johnson Ad GIFs
 
-| Description | Generated GIF |
-|---|---|
-| Coca-Cola product promo with Dwayne Johnson as celebrity | ![Coca-Cola & Dwayne Johnson GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/a411afa1-de9b-4567-9b8e-184e2c4d01b3) |
+| Generated GIFs |
+|---|
+| ![Coca-Cola & Dwayne Johnson GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/a411afa1-de9b-4567-9b8e-184e2c4d01b3) |
 
 ## 🧠 How It Works
 
