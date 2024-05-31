@@ -42,7 +42,7 @@ Here are the results of the experiments conducted using various LoRA weights:
     - The generated prompt is then fed into the Animate Diff model, which uses LoRA weights to adapt and produce the corresponding GIF.
 
 4. **Evaluation** 🔍
-    - Each generated GIF is manually evaluated for accuracy and quality, with adjustments made to the script (scale of rach LoRA weight) and prompt as needed.
+    - Each generated GIF should be manually evaluated for its quality, with adjustments made to the script (scale of each LoRA weight) and prompt as needed.
 
 ## Future Work 📝
   **Improving results for multiple LoRA**
