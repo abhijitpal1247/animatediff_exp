@@ -14,10 +14,11 @@ Here are the results of the experiments conducted using various LoRA weights:
 
 ### 🥤 Coca-Cola Ad GIFs
 
-| Generated GIFs |
-|---|
-| ![Coca-Cola GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/890bbf16-3da7-4223-b872-33f5124ea6d9) |
-| ![Coca-Cola 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/8021b5f8-afd4-42ad-b73a-8fa9d43b2eb7) |
+| Generated GIFs with stable diffusion v1.5 (base-model), AnimateLCM (motion adapter) and tilt-up LoRA| Generated GIFs with epicRealism (base-model), AnimateDiff-Lightning (motion adapter) and zoom-in LoRA|
+|---|---|
+| ![Coca-Cola GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/890bbf16-3da7-4223-b872-33f5124ea6d9) |![Coca-Cola alt GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/6cd6c2a4-e0c8-40b7-afe8-d3a496d50a65)|
+| ![Coca-Cola 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/8021b5f8-afd4-42ad-b73a-8fa9d43b2eb7) |![Coca-Cola alt 2 GIF](https://github.com/abhijitpal1247/animatediff_exp/assets/69110711/54e88515-3c50-4f25-9179-80b8f1455a83)
+
 
 
 ### 💪 Coca-Cola & Dwayne Johnson Ad GIFs
